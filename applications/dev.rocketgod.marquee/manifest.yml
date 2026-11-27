@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/RocketGod-git/busy-bar-marquee.git
-    commit_sha: 21d1bf00b84a5e6fc4d91757aff88d0b597e25a7  # v1.2.0
+    commit_sha: ee55a642cc2f67818077088737f0c15a7c6c67ec
     subdir: marquee
 category: art
 short_description: "Animated, full-color message board: glowing text, 26 pixel-art emoji, and 9 live backgrounds."
@@ -21,8 +21,8 @@ description: |
 
   ## Three ways to set your message
 
-  - **The free Marquee desktop app** for Windows, Mac, and Linux. It has a live preview that runs the same renderer as the bar, one-click presets like "In a meeting" and "Do not disturb," an emoji picker, and a small screen-only view you can keep in a corner. Get it from [the Marquee releases page](https://github.com/RocketGod-git/busy-bar-marquee/releases/latest).
-  - **The bar's web interface:** every option is in Marquee's settings. Write emoji as codes, like `:fire:` or `:heart:`.
+  - **The free Marquee desktop app** for Windows, Mac, and Linux sends messages to Marquee once it's on your bar. It has a live preview that runs the same renderer as the bar, one-click presets like "In a meeting" and "Do not disturb," an emoji picker, and a small screen-only view you can keep in a corner. Get it from [the Marquee releases page](https://github.com/RocketGod-git/busy-bar-marquee/releases/latest).
+  - **The bar's web interface:** every option is in Marquee's settings. Write emoji as codes, like :fire: or :heart:.
   - **The bar itself:** the scroll wheel cycles backgrounds, OK cycles motion, Start cycles the text style, and Back quits.
 
   ## How it works
